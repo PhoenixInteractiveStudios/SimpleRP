@@ -1,0 +1,5 @@
+main: org.burrow_studios.spigot.simplerp.Main
+name: SimpleRP
+version: '1.0.0'
+authors:
+  - nicosleax
